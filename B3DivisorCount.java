@@ -4,7 +4,7 @@ class B3DivisorCount extends ConsoleProgram {
     * Description
     * Write a program DivisorCount that lets you enter an integer and that prints all the divisors of that number. 
     * Note that d is a divisor of n if n%d=0
-    * @author:
+    * @author: Justin M.
     */
     
     public void run() {
