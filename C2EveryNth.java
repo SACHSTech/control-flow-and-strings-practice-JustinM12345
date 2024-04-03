@@ -14,10 +14,11 @@ class C2EveryNth extends ConsoleProgram {
 
         strWord = readLine("Enter a word: ");
         intN = readInt("Enter int N: ");
-      
+
         for (int counter = 0; counter <= strWord.length(); counter = counter +intN){
             System.out.print(strWord.charAt(counter));
         }
+        
     }
   }
   
